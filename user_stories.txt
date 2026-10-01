@@ -1,0 +1,7 @@
+As a player, I want to set the price of lemonade so that I can decide how much to charge customers.
+
+As a player, I want to decide how much lemonade to make so that I can control how much I have available to sell.
+
+As a player, I want to see how much lemonade I sold and how much money I made so that I can evaluate my results.
+
+As a player, I want to continue to the next day so that I can keep running the lemonade stand.
