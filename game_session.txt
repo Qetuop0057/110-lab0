@@ -1,0 +1,115 @@
+Day 1
+Weather: 87°F
+Cups: $1 each
+Ice: $2 each
+Lemons: $1 each
+Sugar: $3 each
+Current cash: $20
+How many cups do you want to buy? 10
+How much ice do you want to buy? 10
+How many lemons do you want to buy? 10
+How much sugar do you want to buy? 10
+Total cost: $70
+Not enough money. Please choose smaller quantities.
+
+Current cash: $20
+How many cups do you want to buy? 3
+How much ice do you want to buy? 3
+How many lemons do you want to buy? 3
+How much sugar do you want to buy? 3
+Total cost: $21
+Not enough money. Please choose smaller quantities.
+
+Current cash: $20
+How many cups do you want to buy? 3
+How much ice do you want to buy? 2
+How many lemons do you want to buy? 3
+How much sugar do you want to buy? 3
+Total cost: $19
+Lemons per cup: 1
+Sugar per cup: 1
+Ice per cup: 1
+Price per cup: $10
+Customers: 15
+Sold: 2 cups
+Cups left: 1
+Ice left: 0
+Lemons left: 1
+Sugar left: 1
+Cash balance: $21
+Play another day? (y/n): y
+
+Day 2
+Weather: 65°F
+Cups: $3 each
+Ice: $1 each
+Lemons: $1 each
+Sugar: $1 each
+Current cash: $21
+How many cups do you want to buy? 3
+How much ice do you want to buy? 3
+How many lemons do you want to buy? 3
+How much sugar do you want to buy? 3
+Total cost: $18
+Lemons per cup: 1
+Sugar per cup: 1
+Ice per cup: 1
+Price per cup: $12
+Customers: 6
+Sold: 3 cups
+Cups left: 1
+Ice left: 0
+Lemons left: 1
+Sugar left: 1
+Cash balance: $39
+Play another day? (y/n): y
+
+Day 3
+Weather: 89°F
+Cups: $2 each
+Ice: $3 each
+Lemons: $3 each
+Sugar: $2 each
+Current cash: $39
+How many cups do you want to buy? 5
+How much ice do you want to buy? 3
+How many lemons do you want to buy? 3
+How much sugar do you want to buy? 2
+Total cost: $32
+Lemons per cup: 15
+Sugar per cup: 1
+Ice per cup: 1
+Price per cup: $1
+Customers: 19
+Sold: 0 cups
+Cups left: 6
+Ice left: 3
+Lemons left: 4
+Sugar left: 3
+Cash balance: $7
+Play another day? (y/n): y
+
+Day 4
+Weather: 75°F
+Cups: $1 each
+Ice: $1 each
+Lemons: $3 each
+Sugar: $2 each
+Current cash: $7
+How many cups do you want to buy? 1
+How much ice do you want to buy? 1
+How many lemons do you want to buy? 0
+How much sugar do you want to buy? 0
+Total cost: $2
+Lemons per cup: 1
+Sugar per cup: 1
+Ice per cup: 1
+Price per cup: $15
+Customers: 12
+Sold: 3 cups
+Cups left: 4
+Ice left: 1
+Lemons left: 1
+Sugar left: 0
+Cash balance: $50
+Play another day? (y/n): n
