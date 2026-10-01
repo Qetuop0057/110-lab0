@@ -81,6 +81,12 @@ class LemonadeStand {
         this.price = price;
     }
 
+    setRecipe(lemons: number, sugar: number, ice: number) {
+        this.lemonsPerCup = lemons;
+        this.sugarPerCup = sugar;
+        this.icePerCup = ice;
+    }
+
     makeLemonade(cups: number) {
         this.cupsMade = cups;
     }
@@ -183,6 +189,20 @@ async function main() {
                 purchaseComplete = true;
             }
         }
+
+        const lemonsPerCup = Number(
+            await rl.question("Lemons per cup: ")
+        );
+
+        const sugarPerCup = Number(
+            await rl.question("Sugar per cup: ")
+        );
+
+        const icePerCup = Number(
+            await rl.question("Ice per cup: ")
+        );
+
+        stand.setRecipe(lemonsPerCup, sugarPerCup, icePerCup);
 
         const priceInput = await rl.question("Price per cup: $");
         stand.setPrice(Number(priceInput));
